@@ -1,0 +1,12 @@
+
+.container{
+  width: 600px;
+  width: 500px;
+  margin: auto;
+}
+#load_prev{
+  margin-right: 10px;
+}
+button{
+  cursor: pointer;
+}
